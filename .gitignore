@@ -1,0 +1,4 @@
+*.out
+solution.*
+.DS_Store
+.vscode
